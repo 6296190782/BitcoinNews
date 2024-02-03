@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BitcoinNews/static/css/main.31d6cfe0.css",
+    "main.js": "/BitcoinNews/static/js/main.277b0ff8.js",
+    "static/js/787.6643f1c0.chunk.js": "/BitcoinNews/static/js/787.6643f1c0.chunk.js",
+    "index.html": "/BitcoinNews/index.html",
+    "main.277b0ff8.js.map": "/BitcoinNews/static/js/main.277b0ff8.js.map",
+    "787.6643f1c0.chunk.js.map": "/BitcoinNews/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.277b0ff8.js"
+  ]
+}
